@@ -26,3 +26,4 @@ Project ini terdiri dari:
 Repository ini tidak berfokus pada pengembangan aplikasi.
 Fokus utama adalah praktik penggunaan Git secara profesional.
 
+
