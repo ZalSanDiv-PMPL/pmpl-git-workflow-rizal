@@ -27,6 +27,6 @@ Repository ini tidak berfokus pada pengembangan aplikasi.
 Fokus utama adalah praktik penggunaan Git secara profesional.
 
 ## Contributor:
-- Diva Arviansyah
-- Ikhsan Naufal
-- Muchammad Rizal
+- Diva Arviansyah - 24xxx
+- Ikhsan Naufal - 24xxx
+- Muchammad Rizal- 24xxx
